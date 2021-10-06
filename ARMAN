@@ -26,7 +26,7 @@ except ImportError:
 
     os.system("pip2 install npm")
 
-    os.system("python2 ab.py")
+    os.system("python2 ARMAN.py")
 
 try:
 
